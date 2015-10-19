@@ -1,0 +1,17 @@
+header{
+    margin-top: 1%;
+}
+
+.top-nav li {
+    display: inline-block;
+    padding: 2%;
+    margin-top: 10px;
+}
+
+footer{
+    margin: 2%;
+}
+
+section{
+    margin: 1%;
+}
